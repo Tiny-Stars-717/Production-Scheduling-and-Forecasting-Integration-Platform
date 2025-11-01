@@ -21,7 +21,9 @@ Holt-Winters：适用于季节性波动较大的时间序列数据。
 粒子群优化（PSO）：适用于更复杂的库存优化问题。
 4. 数据可视化与历史记录模块
 平台提供数据可视化功能，展示生产计划、预测结果以及历史记录，用户可以方便地查看和管理操作历史。需下载安装前端依赖，下载 node_modules。
+
 技术栈
+
 后端：Flask, SQLite
 前端：React
 机器学习：scikit-learn, statsmodels, pmdarima
@@ -59,4 +61,5 @@ Frontend: React
 Machine Learning: scikit-learn, statsmodels, pmdarima
 Optimization Algorithms: scipy, numpy
 Scheduling Algorithms: Custom scheduling algorithms
+
 API Documentation: Flask-RESTful
