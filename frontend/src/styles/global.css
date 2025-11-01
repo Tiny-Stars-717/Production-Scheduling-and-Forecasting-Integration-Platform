@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+.navbar button {
+    margin: 5px;
+    padding: 5px 10px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 10px 0;
+}
